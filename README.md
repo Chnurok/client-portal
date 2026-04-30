@@ -1,5 +1,7 @@
 # Client Portal
 
+![Preview](assets/preview.svg)
+
 White-label client portal for projects, updates, files, and next steps.
 
 ## What it is
@@ -18,13 +20,28 @@ The goal is not to replace heavy enterprise PM tools.
 
 The goal is to give service businesses a simple branded workspace that feels clearer, calmer, and easier for clients to use.
 
-## Focus
+## Core principles
 
 - simple client-facing UX
 - project visibility
-- updates and files
+- updates and files in one place
 - next-step clarity
 - branding / white-label support
+
+## Good fit for
+
+- agencies with ongoing project delivery
+- freelancers who want a polished client workspace
+- boutique teams replacing messy email threads
+- service businesses productizing their delivery experience
+
+## Early roadmap
+
+- projects and statuses
+- updates and milestone communication
+- files and important links
+- client-friendly navigation
+- white-label branding model
 
 ## Status
 
